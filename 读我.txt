@@ -1,0 +1,6 @@
+此代码基于C标准库开发，可以将音频信号函数写进.wav文件
+（换言之，你可以用sin(2π 256 t)得到256Hz的声音）
+其实是C with class...
+我在
+https://bbs.mihoyo.com/dby/article/12811299
+研究了一下关于将class重构为struct的参考，如果你用纯C语言可以看看（不是）
